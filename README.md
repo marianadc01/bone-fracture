@@ -18,4 +18,4 @@ There’s a large quantity of images in the data set, which can be challenging. 
 
 - Dataset: What dataset are you using? How do you plan to collect it? You can use your own data or gather data from online data repositories.
   
-We’re using the [Bone Fracture Multi-Region X-ray Dataset](https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data) 
+We’re using the [Bone Fracture Multi-Region X-ray Dataset](https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data), which incorporates training (9246 images), testing (506 images) and validation (828 images) data.
