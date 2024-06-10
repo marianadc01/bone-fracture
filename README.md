@@ -1,4 +1,4 @@
-# PML Final Project - Bone Fracture Identificatiom                        
+# PML Final Project - Bone Fracture Identification                        
 ### Created by: Maria Dolgaya (28168) and Mariana Coelho (25605)  
 ### Professor Manuel Lameiras de Figueiredo Campagnolo            
 ### MSc in Green Data Science, ISA, Portugal 
