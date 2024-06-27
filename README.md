@@ -4,8 +4,8 @@
 ### MSc in Green Data Science, ISA, Portugal 
 
 Files in the repositoy:
-- pml_project_proposal.md - markdown file explaining the basis of the report;
-- pml_final_project.ipynb - notebook with all the code related to building the model; 
+- pml_project_proposal.md - Markdown file explaining the basis of the report;
+- pml_final_project.ipynb - Jupyter notebook with all the code related to building the model; 
 - pml_final_project_report.pdf - final report explaining everything in the project.
 
 Important links:
