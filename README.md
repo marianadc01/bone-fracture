@@ -3,4 +3,11 @@
 ### Professor Manuel Lameiras de Figueiredo Campagnolo            
 ### MSc in Green Data Science, ISA, Portugal 
 
-For our final project for the class Practical Machine Learning, we have decided to create a model that identifies whether there is a bone fracture in a set of images
+Files in the repositoy:
+- pml_project_proposal.md - markdown file explaining the basis of the report;
+- pml_final_project.ipynb - notebook with all the code related to building the model; 
+- pml_final_project_report.pdf - final report explaining everything in the project.
+
+Important links:
+- Bone Fracture Multi-Region X-ray Dataset: https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data/data
+- HuggingFace Space - Bone fractures classifier trained on the Kaggle dataset using Resnet18: https://huggingface.co/spaces/marianadc01/bone-fracture
